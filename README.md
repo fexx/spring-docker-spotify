@@ -1,6 +1,7 @@
 # spring-docker-spotify
 
 Projeto para demonstrar como gerar e enviar uma imagem docker usando o plugin Dockerfile-maven do spotify
+
 Para mais detalhes acesse o [artigo no medium][artigomedium]
 
 ## Criar imagem docker
