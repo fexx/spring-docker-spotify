@@ -2,7 +2,6 @@
 
 Projeto para demonstrar como gerar e enviar uma imagem docker usando o plugin Dockerfile-maven do spotify
 Para mais detalhes acesse o [artigo no medium][artigomedium]
-[artigomedium]: https://medium.com/@fernandoevangelista_28291/criando-e-enviando-imagem-docker-com-java-e-maven-4fa3c70dba0f
 
 ## Criar imagem docker
 
@@ -30,3 +29,4 @@ Execute o seguinte comando:
 Mais detalhes em [dockerfile-maven][dockerfilemaven]
 
 [dockerfilemaven]: https://github.com/spotify/dockerfile-maven
+[artigomedium]: https://medium.com/@fernandoevangelista_28291/criando-e-enviando-imagem-docker-com-java-e-maven-4fa3c70dba0f
